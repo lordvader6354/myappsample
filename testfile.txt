@@ -5,3 +5,4 @@ Sky is blue
 Water is red
 soil is yellow
 grass is purple
+Night is light
