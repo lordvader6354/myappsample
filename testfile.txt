@@ -1,4 +1,5 @@
 Roses are blue
 Gems are Green
 Sun is hot
-
+Sky is blue
+Water is red
