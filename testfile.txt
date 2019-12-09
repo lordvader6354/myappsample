@@ -3,3 +3,5 @@ Gems are Green
 Sun is hot
 Sky is blue
 Water is red
+soil is yellow
+grass is purple
